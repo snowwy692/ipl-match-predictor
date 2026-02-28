@@ -2,9 +2,6 @@
 
 An end-to-end ML pipeline that predicts IPL match outcomes using Random Forest.
 
-## 🚀 Live Demo
-[Click here to try the app](https://your-app-link.streamlit.app)
-
 ## 📌 Features
 - Predicts win probability for both teams
 - Based on team, venue, toss winner and toss decision
